@@ -90,6 +90,7 @@ Use MongoDB with Flask templating to create a new HTML page that displays all of
 
 ![2020-04-28 (5).png](Mission_to_Mars/static/2020-04-28 (5).png)
 ![2020-04-28 (3).png](Mission_to_Mars/static/2020-04-28 (3).png)
+![2020-04-28 (3).png](Mission_to_Mars/static/2020-04-28 (3).png)
 
 
 - - -
